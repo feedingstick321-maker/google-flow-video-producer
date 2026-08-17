@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+
+# Never publish authenticated browser state or generated media.
+chrome-profile/
+*.mp4
+*.mov
+*.webm
+*.wav
+*.mp3
