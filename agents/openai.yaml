@@ -1,0 +1,4 @@
+interface:
+  display_name: "Google Flow Video Producer"
+  short_description: "Google Flow에서 스토리보드 영상을 안전하게 제작·검수"
+  default_prompt: "Use $google-flow-video-producer to turn my storyboard into a credit-aware, fully assembled Google Flow video."
